@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ritika Mishra</h1>
+> I'm Ritika Mishra</h1>
 <h3 align="center">A passionate data analyst</h3>
 
 - 🌱 I’m currently learning **PowerBi**
